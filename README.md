@@ -3,7 +3,7 @@ Utility functions for interacting with OpenSea API
 
 ## Usage
 
-`npm install @unegma/opensea-sdk --save`
+`npm install opensea-sdk --save`
 
 ```
 
