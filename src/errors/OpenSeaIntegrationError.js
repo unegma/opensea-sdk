@@ -9,4 +9,4 @@ class OpenSeaIntegrationError extends Error {
   }
 }
 
-module.exports = OpenSeaIntegrationError;
+export default OpenSeaIntegrationError;

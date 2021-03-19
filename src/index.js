@@ -1,1 +1,2 @@
-module.exports = require('./errors');
+import { default as OpenSeaSDK } from './OpenSeaSDK';
+export { OpenSeaSDK };

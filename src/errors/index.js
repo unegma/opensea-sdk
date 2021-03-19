@@ -1,1 +1,3 @@
-module.exports.OpenSeaIntegrationError = require('./OpenSeaIntegrationError.js');
+import { default as OpenSeaIntegrationError } from "./OpenSeaIntegrationError";
+
+export { OpenSeaIntegrationError };
