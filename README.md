@@ -6,7 +6,7 @@ Utility functions for interacting with OpenSea API
 `npm install opensea-sdk --save`
 
 ```
-
+import { OpenSeaSDK } from "opensea-sdk";
 const openSea = new OpenSeaSDK();
 const openSeaTestnet = new OpenSeaSDK('rinkeby');
 
